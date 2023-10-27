@@ -1,9 +1,6 @@
-# Getting Started with Create React App
+Pour lancer le projet, installez les dépendances et lancer l'app avec les commandes suivantes : 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Pour faire fonctionner l'appel api, vous devez vous créer un compte sur le site https://coinmarketcap.com/ .
